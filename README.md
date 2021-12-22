@@ -1,2 +1,3 @@
 # Tic-Tac-Toe-AI-with-Graphics
-User can play against computer AI, using Minimax Algorithm, (UI included)
+
+**The computer plays against the user using the Minimax Algorithm and Alpha-beta pruning. Tkinter is used for the UI**
