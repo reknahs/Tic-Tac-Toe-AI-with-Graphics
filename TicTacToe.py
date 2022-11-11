@@ -1,4 +1,4 @@
-#imports
+#all imports
 from copy import deepcopy
 from tkinter import *
 import tkinter
